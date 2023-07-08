@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://olliemath.dev/sitemap.xml
