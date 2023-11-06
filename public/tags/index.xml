@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on olliemath.dev</title>
-    <link>http://olliemath.dev/tags/</link>
-    <description>Recent content in Tags on olliemath.dev</description>
+    <title>Tags on olliemath.com</title>
+    <link>http://olliemath.com/tags/</link>
+    <description>Recent content in Tags on olliemath.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://olliemath.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Nov 2023 01:04:28 +0000</lastBuildDate><atom:link href="http://olliemath.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mathematics</title>
+      <link>http://olliemath.com/tags/mathematics/</link>
+      <pubDate>Mon, 06 Nov 2023 01:04:28 +0000</pubDate>
+      
+      <guid>http://olliemath.com/tags/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software engineering</title>
+      <link>http://olliemath.com/tags/software-engineering/</link>
+      <pubDate>Mon, 06 Nov 2023 01:04:28 +0000</pubDate>
+      
+      <guid>http://olliemath.com/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

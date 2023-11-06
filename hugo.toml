@@ -1,6 +1,6 @@
-baseURL = 'http://olliemath.dev/'
+baseURL = 'http://olliemath.com/'
 languageCode = 'en-us'
-title = 'olliemath.dev'
+title = 'olliemath.com'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -17,11 +17,10 @@ buildExpired = false
 
 [params]
   # env = production # to enable google analytics, opengraph, twitter-cards and schema.
-  title = "olliemath.dev"
+  title = "olliemath.com"
   description = "the blog and personal site of olliemath"
   keywords = ["Blog", "Software", "Engineering", "Math", "Rust", "Python"]
   author = "Oliver Margetts"
-  # images = ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat = "Jan 02 2006"
   defaultTheme = "dark"
   disableThemeToggle = false
@@ -42,59 +41,49 @@ buildExpired = false
   showtoc = false
   tocopen = false
 
-  [assets]
-    favicon = "<link / abs url>"
-    favicon16x16 = "<link / abs url>"
-    favicon32x32 = "<link / abs url>"
-    apple_touch_icon = "<link / abs url>"
-    safari_pinned_tab = "<link / abs url>"
+  [params.assets]
+    favicon = "favicon.svg"
+    favicon16x16 = "favicon.svg"
+    favicon32x32 = "favicon.svg"
+    apple_touch_icon = "favicon.svg"
+    safari_pinned_tab = "favicon.svg"
 
-  [label]
-    text = "Home"
-    icon = "/apple-touch-icon.png"
-    iconHeight = 35
+  [params.label]
+    text = "↳ /home/olliemath"
 
   # profile-mode
-  [profileMode]
-    enabled = true # needs to be explicitly set
-    title = "olliemath.dev"
-    subtitle = "This is subtitle"
-    imageUrl = "<img location>"
+  [params.profileMode]
+    enabled = true
+    title = "olliemath.com"
+    subtitle = "the personal site of Dr Oliver Margetts"
+    imageUrl = "barca.webp"
     imageWidth = 120
     imageHeight = 120
-    imageTitle = "my image"
+    imageTitle = "Hey, it's me in barcalona! Copyright Hubert Bosiacki."
     buttons = [
         { name = "Posts", url = "posts"},
         { name = "Tags", url = "tags"},
+        { name = "About", url = "posts/about/" },
+        { name = "Github", url = "https://github.com/olliemath/"}
     ]
-
-  # home-info mode
-  [homeInfoParams]
-    Title = "Hi there \U0001F44B"
-    Content = "Welcome to my blog"
-
-  socialIcons = [
-    { name = "twitter", url = "https://twitter.com/" },
-    { name = "github", url = "https://github.com/" },
-  ]
 
   # [analytics]
   #   google:
   #     SiteVerificationTag: "XYZabc"
 
-  [cover]
+  [params.cover]
     hidden = true # hide everywhere but not in structured data
     hiddenInList = true # hide on list pages and home
     hiddenInSingle = true # hide on single page
 
-  [editPost]
+  [params.editPost]
     URL = "https://github.com/<path_to_repo>/content"
     Text = "Suggest Changes" # edit text
     appendFilePath = true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
-  [fuseOpts]
+  [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true
     location = 0
@@ -114,11 +103,6 @@ buildExpired = false
     name = "tags"
     url = "/tags/"
     weight = 20
-  [[menu.main]]
-    identifier = "example"
-    name = "example.org"
-    url = "https://example.org"
-    weight = 30
 
 [markup]
   [markup.highlight]

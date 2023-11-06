@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://olliemath.dev/categories/</loc>
+    <loc>http://olliemath.com/categories/about/</loc>
+    <lastmod>2023-11-06T01:04:28+00:00</lastmod>
   </url><url>
-    <loc>http://olliemath.dev/</loc>
+    <loc>http://olliemath.com/posts/about/</loc>
+    <lastmod>2023-11-06T01:04:28+00:00</lastmod>
   </url><url>
-    <loc>http://olliemath.dev/tags/</loc>
+    <loc>http://olliemath.com/categories/</loc>
+    <lastmod>2023-11-06T01:04:28+00:00</lastmod>
+  </url><url>
+    <loc>http://olliemath.com/tags/mathematics/</loc>
+    <lastmod>2023-11-06T01:04:28+00:00</lastmod>
+  </url><url>
+    <loc>http://olliemath.com/categories/mathematics/</loc>
+    <lastmod>2023-11-06T01:04:28+00:00</lastmod>
+  </url><url>
+    <loc>http://olliemath.com/</loc>
+    <lastmod>2023-11-06T01:04:28+00:00</lastmod>
+  </url><url>
+    <loc>http://olliemath.com/posts/</loc>
+    <lastmod>2023-11-06T01:04:28+00:00</lastmod>
+  </url><url>
+    <loc>http://olliemath.com/tags/software-engineering/</loc>
+    <lastmod>2023-11-06T01:04:28+00:00</lastmod>
+  </url><url>
+    <loc>http://olliemath.com/categories/software-engineering/</loc>
+    <lastmod>2023-11-06T01:04:28+00:00</lastmod>
+  </url><url>
+    <loc>http://olliemath.com/tags/</loc>
+    <lastmod>2023-11-06T01:04:28+00:00</lastmod>
   </url>
 </urlset>

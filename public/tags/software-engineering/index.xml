@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>olliemath.com</title>
-    <link>http://olliemath.com/</link>
-    <description>Recent content on olliemath.com</description>
+    <title>software engineering on olliemath.com</title>
+    <link>http://olliemath.com/tags/software-engineering/</link>
+    <description>Recent content in software engineering on olliemath.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Nov 2023 01:04:28 +0000</lastBuildDate><atom:link href="http://olliemath.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Nov 2023 01:04:28 +0000</lastBuildDate><atom:link href="http://olliemath.com/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://olliemath.com/posts/about/</link>

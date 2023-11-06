@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on olliemath.dev</title>
-    <link>http://olliemath.dev/categories/</link>
-    <description>Recent content in Categories on olliemath.dev</description>
+    <title>Categories on olliemath.com</title>
+    <link>http://olliemath.com/categories/</link>
+    <description>Recent content in Categories on olliemath.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://olliemath.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Nov 2023 01:04:28 +0000</lastBuildDate><atom:link href="http://olliemath.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://olliemath.com/categories/about/</link>
+      <pubDate>Mon, 06 Nov 2023 01:04:28 +0000</pubDate>
+      
+      <guid>http://olliemath.com/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mathematics</title>
+      <link>http://olliemath.com/categories/mathematics/</link>
+      <pubDate>Mon, 06 Nov 2023 01:04:28 +0000</pubDate>
+      
+      <guid>http://olliemath.com/categories/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software engineering</title>
+      <link>http://olliemath.com/categories/software-engineering/</link>
+      <pubDate>Mon, 06 Nov 2023 01:04:28 +0000</pubDate>
+      
+      <guid>http://olliemath.com/categories/software-engineering/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
